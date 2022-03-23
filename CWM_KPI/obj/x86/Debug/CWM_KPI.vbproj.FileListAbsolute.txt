@@ -1,0 +1,10 @@
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\bin\Debug\CWM_KPI.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\bin\Debug\CWM_KPI.pdb
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\bin\Debug\CWM_KPI.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.Form1.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.Resources.resources
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.vbproj.GenerateResource.Cache
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.exe
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.xml
+c:\users\mano\documents\visual studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.pdb
+C:\Users\MANO\Documents\Visual Studio 2010\Projects\CWM_KPI\CWM_KPI\obj\x86\Debug\CWM_KPI.vbprojResolveAssemblyReference.cache
